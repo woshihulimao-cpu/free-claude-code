@@ -20,7 +20,7 @@ workers:
 - `smoke/` owns opt-in product smoke scenarios and the public coverage
   inventory used by contract tests.
 
-## Intended Dependency Direction 测试
+## Intended Dependency Direction 测试，第二次测试
 
 The repo should preserve this dependency order:
 
